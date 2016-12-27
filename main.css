@@ -7,9 +7,13 @@ label {
     color: aliceblue;
     font-size: 200%;
     margin-left: 30%;
-
-   
     }
+.nu {
+    font-size: 50px;
+    width: 10%;
+height: 30px;
+    
+}
 button {
     width: 10%;
     background-color: aqua;
@@ -22,4 +26,5 @@ button {
     color: aliceblue;
     margin-top: 3%;
     margin-left: 50%;
+    font-size: 50px;
 }
