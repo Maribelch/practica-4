@@ -1,0 +1,25 @@
+body {
+    background-image: url(45.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+label {
+    color: aliceblue;
+    font-size: 200%;
+    margin-left: 30%;
+
+   
+    }
+button {
+    width: 10%;
+    background-color: aqua;
+    margin-top: 10%;
+    
+}
+.re{
+    width: 10%;
+    border: 2px solid #fff;
+    color: aliceblue;
+    margin-top: 3%;
+    margin-left: 50%;
+}
